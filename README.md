@@ -1,4 +1,5 @@
-# divesweeper ![alt text](assets/branding/logo.png "divesweeper")
+# ![divesweeper logo](assets/branding/logo.png "divesweeper")
+# divesweeper
 mineseeper if it was dive
 
 
